@@ -3,6 +3,9 @@
 ![image](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
 
 
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-elhaouari)
+![Mohammed's trophies](https://github-profile-trophy.vercel.app/?username=mohammed-elhaouari&column=5&margin-w=7&margin-h=7)
+
 <!--
 **elhaouari-mohammed/elhaouari-mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
