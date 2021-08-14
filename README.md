@@ -18,18 +18,18 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/tsd_moha
 </a>
 
 <br>
+<br>
+
 <a href="https://github.com/phpjuice/blueprint">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=blueprint&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
-
 <br>
+
 <a href="https://github.com/phpjuice/slopeone">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=slopeone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
 
 <br>
 <br>
