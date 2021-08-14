@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![image](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
-
-
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-elhaouari&count_private=true&show_icons=true&theme=material-palenight)
 <br >
 [![Mohammed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-elhaouari&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
