@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Mohammed, a senior fullstack developer - Javascript Enthusiast and PHP Developer - with 3 years of experience. 
+I’m Mohammed, a senior fullstack developer with 3 years of experience - Javascript Enthusiast and PHP Lover. 
 
 Want to know more about me? [Check out my twitter.](https://twitter.com/tsd_mohammed)
 
