@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Mohammed, a senior fullstack developer with 3 years of experience - Javascript Enthusiast and PHP Lover. 
+I’m Mohammed, a senior fullstack developer with more than 3 years of experience - Javascript Enthusiast and PHP Lover. 
 
 Want to know more about me? [Check out my twitter.](https://twitter.com/tsd_mohammed)
 
@@ -15,6 +15,13 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/tsd_moha
 
 <a href="https://github.com/phpjuice/paypal-checkout-sdk">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=paypal-checkout-sdk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/phpjuice/pest-plugin-vcr">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=pest-plugin-vcr&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -53,7 +60,6 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/tsd_moha
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <details>
@@ -82,7 +88,6 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/tsd_moha
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
 
