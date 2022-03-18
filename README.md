@@ -7,7 +7,7 @@ Hey there 👋
 
 I’m Mohammed, a senior fullstack developer with few years of experience - Javascript Enthusiast and PHP Lover. 
 
-Want to know more about me? [Check out my twitter.](https://twitter.com/tsd_mohammed)
+Want to know more about me? [Check out my twitter.](https://twitter.com/the_dijkstra)
 
 ## 📌 Pinned Repositories
 
