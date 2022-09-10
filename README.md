@@ -10,15 +10,6 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/the_dijk
 
 ## 📌 Pinned Repositories
 
-<br >
-
-<a href="https://github.com/phpjuice/paypal-checkout-sdk">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=paypal-checkout-sdk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br >
-<br >
-
 <a href="https://github.com/phpjuice/opencf">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=opencf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -28,6 +19,14 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/the_dijk
 
 <a href="https://github.com/phpjuice/slopeone">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=slopeone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+
+<a href="https://github.com/phpjuice/paypal-checkout-sdk">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=paypal-checkout-sdk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
