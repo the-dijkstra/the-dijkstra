@@ -36,11 +36,11 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/the_dijk
 
 <br>
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-elhaouari&count_private=true&show_icons=true&theme=material-palenight)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-dijkstra&count_private=true&show_icons=true&theme=material-palenight)
 <br >
-[![Mohammed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-elhaouari&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dijkstra&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br >
-![Mohammed's trophies](https://github-profile-trophy.vercel.app/?username=mohammed-elhaouari&column=5&margin-w=7&margin-h=7&theme=discord)
+![Mohammed's trophies](https://github-profile-trophy.vercel.app/?username=the-dijkstra&column=5&margin-w=7&margin-h=7&theme=discord)
 
 <br>
 <br>
