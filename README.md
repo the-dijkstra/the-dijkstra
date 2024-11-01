@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mhdcode)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/mhdcode)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohammed-elhaouari/)
 <!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tsd_mohammed) -->
 
@@ -6,7 +6,7 @@ Hey there 👋
 
 I’m Mohammed, a senior fullstack developer with few years of experience - Javascript Enthusiast and PHP Lover. 
 
-Want to know more about me? [Check out my twitter.](https://twitter.com/mhdcode)
+Want to know more about me? [Check out my twitter.](https://x.com/mhdcode)
 
 ## 📌 Pinned Repositories
 
@@ -45,11 +45,11 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/mhdcode)
 
 <br>
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdcode&count_private=true&show_icons=true&theme=material-palenight)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdcodes&count_private=true&show_icons=true&theme=material-palenight)
 <br >
-[![Mohammed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdcode&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdcodes&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br >
-![Mohammed's trophies](https://github-profile-trophy.vercel.app/?username=mhdcode&column=5&margin-w=7&margin-h=7&theme=discord)
+![Mohammed's trophies](https://github-profile-trophy.vercel.app/?username=mhdcodes&column=5&margin-w=7&margin-h=7&theme=discord)
 
 <br>
 <br>
@@ -92,4 +92,4 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/mhdcode)
 </details>
 
 <br>
-<img src="https://raw.githubusercontent.com/mhdcode/mhdcode/master/snk.svg" alt="Snake animation" width="100%">
+<img src="https://raw.githubusercontent.com/mhdcodes/mhdcodes/master/snk.svg" alt="Snake animation" width="100%">
