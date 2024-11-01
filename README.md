@@ -6,7 +6,7 @@ Hey there 👋
 
 I’m Mohammed, a senior fullstack developer with few years of experience - Javascript Enthusiast and PHP Lover. 
 
-Want to know more about me? [Check out my twitter.](https://twitter.com/the_dijkstra)
+Want to know more about me? [Check out my twitter.](https://twitter.com/mhdcode)
 
 ## 📌 Pinned Repositories
 
@@ -45,11 +45,11 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/the_dijk
 
 <br>
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-dijkstra&count_private=true&show_icons=true&theme=material-palenight)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdcode&count_private=true&show_icons=true&theme=material-palenight)
 <br >
-[![Mohammed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dijkstra&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdcode&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br >
-![Mohammed's trophies](https://github-profile-trophy.vercel.app/?username=the-dijkstra&column=5&margin-w=7&margin-h=7&theme=discord)
+![Mohammed's trophies](https://github-profile-trophy.vercel.app/?username=mhdcode&column=5&margin-w=7&margin-h=7&theme=discord)
 
 <br>
 <br>
@@ -92,4 +92,4 @@ Want to know more about me? [Check out my twitter.](https://twitter.com/the_dijk
 </details>
 
 <br>
-<img src="https://raw.githubusercontent.com/the-dijkstra/the-dijkstra/master/snk.svg" alt="Snake animation" width="100%">
+<img src="https://raw.githubusercontent.com/mhdcode/mhdcode/master/snk.svg" alt="Snake animation" width="100%">
